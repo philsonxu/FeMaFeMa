@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <LangVersion>13</LangVersion>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <RootNamespace>FEM2D</RootNamespace>
+    <AssemblyName>FEM2D</AssemblyName>
+    <StartupObject>FEM2D.Program</StartupObject>
+    <PlatformTarget>x64</PlatformTarget>
+    <BaseOutputPath>C:\Yohoo\FEM2D\bin\</BaseOutputPath>
+    <IntermediateOutputPath>C:\Yohoo\FEM2D\obj\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Update="Examples\*.inp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+</Project>

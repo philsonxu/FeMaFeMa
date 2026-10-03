@@ -1,0 +1,21 @@
+** NonlinearFEM2D Example: Cantilever CST3
+*Node
+1, 0.0, 0.0
+2, 1.0, 0.0
+3, 2.0, 0.0
+4, 0.0, 0.5
+5, 1.0, 0.5
+6, 2.0, 0.5
+*Element, type=CPS3
+1, 1, 2, 5
+2, 1, 5, 4
+3, 2, 3, 6
+4, 2, 6, 5
+*Material
+E 2.1e11 nu 0.3 rho 7850.0 t 0.01 sy 2.5e8 h 2.1e9
+*Boundary
+1,1,0.0
+1,2,0.0
+4,1,0.0
+4,2,0.0
+** end load at top-right node 6 (fy=-2e7)

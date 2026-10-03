@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Develop\\FEM2D\\FEM2D-Modal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0DF67-3A18-8468-677C-7154D4537231}|ModalFEM2D.csproj|c:\\develop\\fem2d\\fem2d-modal\\core\\densevector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B0DF67-3A18-8468-677C-7154D4537231}|ModalFEM2D.csproj|solutionrelative:core\\densevector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0DF67-3A18-8468-677C-7154D4537231}|ModalFEM2D.csproj|c:\\develop\\fem2d\\fem2d-modal\\core\\sparsematrixcsr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B0DF67-3A18-8468-677C-7154D4537231}|ModalFEM2D.csproj|solutionrelative:core\\sparsematrixcsr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0DF67-3A18-8468-677C-7154D4537231}|ModalFEM2D.csproj|c:\\develop\\fem2d\\fem2d-modal\\core\\krylovsolvers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B0DF67-3A18-8468-677C-7154D4537231}|ModalFEM2D.csproj|solutionrelative:core\\krylovsolvers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0DF67-3A18-8468-677C-7154D4537231}|ModalFEM2D.csproj|c:\\develop\\fem2d\\fem2d-modal\\core\\ipreconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B0DF67-3A18-8468-677C-7154D4537231}|ModalFEM2D.csproj|solutionrelative:core\\ipreconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0DF67-3A18-8468-677C-7154D4537231}|ModalFEM2D.csproj|c:\\develop\\fem2d\\fem2d-modal\\core\\amgpreconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B0DF67-3A18-8468-677C-7154D4537231}|ModalFEM2D.csproj|solutionrelative:core\\amgpreconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0DF67-3A18-8468-677C-7154D4537231}|ModalFEM2D.csproj|c:\\develop\\fem2d\\fem2d-modal\\solvers\\structuralsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B0DF67-3A18-8468-677C-7154D4537231}|ModalFEM2D.csproj|solutionrelative:solvers\\structuralsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0DF67-3A18-8468-677C-7154D4537231}|ModalFEM2D.csproj|c:\\develop\\fem2d\\fem2d-modal\\solvers\\navierstokessolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B0DF67-3A18-8468-677C-7154D4537231}|ModalFEM2D.csproj|solutionrelative:solvers\\navierstokessolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0DF67-3A18-8468-677C-7154D4537231}|ModalFEM2D.csproj|c:\\develop\\fem2d\\fem2d-modal\\elements\\finiteelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B0DF67-3A18-8468-677C-7154D4537231}|ModalFEM2D.csproj|solutionrelative:elements\\finiteelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SparseMatrixCSR.cs",
+              "DocumentMoniker": "C:\\Develop\\FEM2D\\FEM2D-Modal\\Core\\SparseMatrixCSR.cs",
+              "RelativeDocumentMoniker": "Core\\SparseMatrixCSR.cs",
+              "ToolTip": "C:\\Develop\\FEM2D\\FEM2D-Modal\\Core\\SparseMatrixCSR.cs",
+              "RelativeToolTip": "Core\\SparseMatrixCSR.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:37:03.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KrylovSolvers.cs",
+              "DocumentMoniker": "C:\\Develop\\FEM2D\\FEM2D-Modal\\Core\\KrylovSolvers.cs",
+              "RelativeDocumentMoniker": "Core\\KrylovSolvers.cs",
+              "ToolTip": "C:\\Develop\\FEM2D\\FEM2D-Modal\\Core\\KrylovSolvers.cs",
+              "RelativeToolTip": "Core\\KrylovSolvers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:36:58.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPreconditioner.cs",
+              "DocumentMoniker": "C:\\Develop\\FEM2D\\FEM2D-Modal\\Core\\IPreconditioner.cs",
+              "RelativeDocumentMoniker": "Core\\IPreconditioner.cs",
+              "ToolTip": "C:\\Develop\\FEM2D\\FEM2D-Modal\\Core\\IPreconditioner.cs",
+              "RelativeToolTip": "Core\\IPreconditioner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:36:55.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AMGPreconditioner.cs",
+              "DocumentMoniker": "C:\\Develop\\FEM2D\\FEM2D-Modal\\Core\\AMGPreconditioner.cs",
+              "RelativeDocumentMoniker": "Core\\AMGPreconditioner.cs",
+              "ToolTip": "C:\\Develop\\FEM2D\\FEM2D-Modal\\Core\\AMGPreconditioner.cs",
+              "RelativeToolTip": "Core\\AMGPreconditioner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:36:46.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StructuralSolver.cs",
+              "DocumentMoniker": "C:\\Develop\\FEM2D\\FEM2D-Modal\\Solvers\\StructuralSolver.cs",
+              "RelativeDocumentMoniker": "Solvers\\StructuralSolver.cs",
+              "ToolTip": "C:\\Develop\\FEM2D\\FEM2D-Modal\\Solvers\\StructuralSolver.cs",
+              "RelativeToolTip": "Solvers\\StructuralSolver.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAswIAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:35:43.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavierStokesSolver.cs",
+              "DocumentMoniker": "C:\\Develop\\FEM2D\\FEM2D-Modal\\Solvers\\NavierStokesSolver.cs",
+              "RelativeDocumentMoniker": "Solvers\\NavierStokesSolver.cs",
+              "ToolTip": "C:\\Develop\\FEM2D\\FEM2D-Modal\\Solvers\\NavierStokesSolver.cs",
+              "RelativeToolTip": "Solvers\\NavierStokesSolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:35:13.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DenseVector.cs",
+              "DocumentMoniker": "C:\\Develop\\FEM2D\\FEM2D-Modal\\Core\\DenseVector.cs",
+              "RelativeDocumentMoniker": "Core\\DenseVector.cs",
+              "ToolTip": "C:\\Develop\\FEM2D\\FEM2D-Modal\\Core\\DenseVector.cs",
+              "RelativeToolTip": "Core\\DenseVector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:35:08.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FiniteElement.cs",
+              "DocumentMoniker": "C:\\Develop\\FEM2D\\FEM2D-Modal\\Elements\\FiniteElement.cs",
+              "RelativeDocumentMoniker": "Elements\\FiniteElement.cs",
+              "ToolTip": "C:\\Develop\\FEM2D\\FEM2D-Modal\\Elements\\FiniteElement.cs",
+              "RelativeToolTip": "Elements\\FiniteElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:34:45.979Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
